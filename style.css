@@ -1,0 +1,102 @@
+html{
+  height: 100%;
+}
+body {
+
+  background-color: black;
+  background-image: url(img/background-adare-restaurant.jpg);
+  background-size: cover;
+  background-repeat:no-repeat;
+  background-position: center;
+
+}
+.wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1024px;
+}
+
+header {
+  
+  height: 118px;
+  text-align: center;
+  
+}
+
+nav {
+  
+  
+  background-color:rgba(0, 0, 0, 0.333);
+  text-align: center;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+main {
+  text-align: center;
+  height: 400px;
+  margin-top: 80px;
+  padding-left: 240px;
+  padding-right: 240px;
+}
+
+footer {
+ 
+  
+  background-color:rgba(0, 0, 0, 0.51);
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: Main St, Blackabbey, Adare, Co. Limerick - Copyright 2017©;
+  
+
+}
+
+
+.ad {
+  font-size: 84px;
+  color: white;
+  font-family:'comic sans' 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  text-align: center;
+}
+
+
+p {
+  color: white;
+  font-family:'comic sans' 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  font-size: 18px;
+  text-align: center;
+}
+
+
+a {
+  color: white;
+  font-family:'comic sans' 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+  /*text-decoration: none;*/
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: 'comic sans' 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; ;
+
+
+}
+
+footer p{
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.462);
+}
+
+.maps {
+  padding-bottom: 50px;
+}
+.vid {
+  padding-bottom: 50px;
+
+}
+header img {
+  width: 135px;
+  height: 82px;
+}
